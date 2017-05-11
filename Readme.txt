@@ -1,8 +1,3 @@
-/* Group 20
-Prasanna Kumar Rajendran
-Cloud Computing Project
-Book Recomendation
-*/
 
 General Class generation:
 Execution:
