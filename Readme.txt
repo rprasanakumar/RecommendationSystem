@@ -1,7 +1,5 @@
 /* Group 20
 Prasanna Kumar Rajendran
-Lakhsmanan Ramu Meenal
-Senthil Kumar Karthikeyan
 Cloud Computing Project
 Book Recomendation
 */
